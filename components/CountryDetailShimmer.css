@@ -1,0 +1,35 @@
+
+.shimmer-card-img{
+    width: 400px;
+    height: 300px;
+    background-color: var(--elements-color);
+}
+
+.shimmer-card-name{
+    width: 120px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: var(--elements-color);
+    margin-bottom: 10px;
+}
+
+.shimmer-card-list{
+    width: 200px;
+    height: 10px;
+    border-radius: 10px;
+    background-color: var(--elements-color);
+}
+
+.shimmer-card-border{
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: var(--elements-color);
+}
+
+.shimmer-back-button{
+    width: 100px;
+    height: 40px;
+    background-color: var(--elements-color);
+
+}
